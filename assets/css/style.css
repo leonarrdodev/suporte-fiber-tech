@@ -61,6 +61,37 @@ ul a:hover {
     transform: translateY(-8px) scale(1.1);
   }
 }
+main {
+  width: 100%;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 90px;
+  margin: 0 auto;
+  width: 100%;
+}
+.main-content h2 {
+  color: #0e0c11;
+  font-size: 64px;
+}
+.main-content p {
+  font-size: 18px;
+  color: #0e0c11;
+  text-align: justify;
+  margin-top: 20px;
+}
+
+.values-table-container {
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 body {
   width: 100%;
   height: 100vh;

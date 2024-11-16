@@ -1,0 +1,22 @@
+main{
+    width: 100%;
+}
+.main-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 48px 90px;
+    margin: 0 auto;
+    width: 100%;
+    h2{
+        color: $text-color-black;
+        font-size: 64px;
+    }
+    p{
+        font-size: 18px;
+        color: $text-color-black;
+        text-align: justify;
+        margin-top: 20px;
+    }
+}
