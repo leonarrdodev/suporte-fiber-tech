@@ -51,6 +51,7 @@ ul a:hover {
   gap: 70px;
   background-color: #3b66ae;
   padding: 64px 90px;
+  height: 70vh;
 }
 .hero h2 {
   font-size: 64px;
