@@ -18,6 +18,23 @@
   color: #eeecec;
 }
 
+.content{
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 40vh;
+  width: 60%;
+}
+.content h3{
+  font-size: 48px;
+}
+
+.content p{
+ text-align: justify;
+}
+
 ul {
   display: flex;
   gap: 40px;
