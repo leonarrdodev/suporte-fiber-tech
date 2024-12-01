@@ -119,4 +119,16 @@ body {
   padding: 0 90px;
 }
 
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  background-color: #3b66ae;
+}
+
+.footer p{
+  color: #fff;
+}
+
 /*# sourceMappingURL=style.css.map */
